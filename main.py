@@ -2,7 +2,7 @@
 # last update = 17/03/2021
 # version = 0.0.3
 # goal = 500 lines
-# lines = 428
+# lines = 397
 
 '''
 
@@ -68,6 +68,16 @@ list of commands {
                      V
                 you need to write var
 
+            }
+
+            math log example { you can make the math more useful place with this:
+                                (Test yourself!!)
+
+                log 2 + 2
+
+                console {
+                    4
+                } 
             }
         }
     }
